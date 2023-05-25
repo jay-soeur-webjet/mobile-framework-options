@@ -1,5 +1,5 @@
 
-| Aspect             | React Native | Flutter | Xamarin | Ionic | PhoneGap/Cordova | NativeScript | .NET MAUI |
+| Aspect             | React Native | <span style="color: green">Flutter</span> | Xamarin | Ionic | PhoneGap/Cordova | NativeScript | .NET MAUI |
 |--------------------|--------------|---------|---------|-------|------------------|---------------|-----------|
 | Popularity         | High         | Rapidly growing | Moderate | Moderate | Moderate | Moderate | Moderate |
 | Support            | Strong community support and regular updates | Strong support from Google and community | Microsoft-backed with regular updates | Active community support | Active community support | Active community and commercial support | Strong support from Microsoft |
@@ -26,7 +26,7 @@
 - React Native: Highly popular and well-supported framework with good stability. Offers a vast collection of libraries and follows good security practices. 
 
     
-- Flutter: Rapidly growing framework with strong support from Google and a rich collection of built-in widgets. Requires a learning curve for beginners. 
+-  <span style="color: green">Flutter</span>: Rapidly growing framework with strong support from Google and a rich collection of built-in widgets. Requires a learning curve for beginners. 
     
  
     
