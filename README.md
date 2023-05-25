@@ -8,9 +8,7 @@ Certainly! Here's the updated comparison table with the inclusion of .NET MAUI a
 | Ease of Learning    | 🌟🌟🌟🌟       | 🌟🌟      | 🌟🌟🌟    | 🌟🌟🌟   | 🌟🌟🌟             | 🌟🌟🌟            | 🌟🌟🌟   | 🌟🌟🌟   |
 | Libraries          | 🌟🌟🌟🌟🌟    | 🌟🌟🌟🌟 | 🌟🌟🌟🌟 | 🌟🌟🌟   | 🌟🌟🌟🌟🌟        | 🌟🌟🌟🌟🌟       | 🌟🌟🌟🌟  | 🌟🌟🌟   |
 | Security           | 🌟🌟🌟🌟       | 🌟🌟🌟🌟 | 🌟🌟🌟🌟 | 🌟🌟🌟   | 🌟🌟🌟🌟           | 🌟🌟🌟🌟🌟       | 🌟🌟🌟🌟  | 🌟🌟🌟   |
-| Stability          | 🌟🌟🌟🌟       | 🌟🌟🌟🌟 | 🌟🌟🌟🌟 | 🌟🌟🌟
-
-🌟 | 🌟🌟🌟🌟🌟        | 🌟🌟🌟🌟🌟       | 🌟🌟🌟🌟🌟 | 🌟🌟🌟🌟 |
+| Stability          | 🌟🌟🌟🌟       | 🌟🌟🌟🌟 | 🌟🌟🌟🌟 | 🌟🌟🌟🌟 | 🌟🌟🌟🌟🌟        | 🌟🌟🌟🌟🌟       | 🌟🌟🌟🌟🌟 | 🌟🌟🌟🌟 |
 
 Comments:
 - React Native: Highly popular and well-supported framework with good stability. Offers a vast collection of libraries and follows good security practices. Native capability: Provides access to native APIs through JavaScript bridges.
