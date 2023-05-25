@@ -11,7 +11,6 @@
 | Native Capability  | Limited       | High    | High    | Limited | Limited          | High          | High     | High      |
 | Rating             | 4.2           | 4.5     | 4.3     | 3.8     | 3.7              | 4.0           | 4.6      | 4.1       |
 
-Please note that the rating numbers in the bottom row are subjective and provided for the purpose of comparison. The overall assessment should consider the specific requirements and context of your project.
 
 | Aspect             | React Native | Flutter | Xamarin | Ionic | PhoneGap/Cordova | NativeScript | Unity   | .NET MAUI |
 |--------------------|--------------|---------|---------|-------|------------------|---------------|----------|-----------|
@@ -23,7 +22,7 @@ Please note that the rating numbers in the bottom row are subjective and provide
 | Security           | 🌟🌟🌟🌟       | 🌟🌟🌟🌟 | 🌟🌟🌟🌟 | 🌟🌟🌟   | 🌟🌟🌟🌟           | 🌟🌟🌟🌟🌟       | 🌟🌟🌟🌟  | 🌟🌟🌟   |
 | Stability          | 🌟🌟🌟🌟       | 🌟🌟🌟🌟 | 🌟🌟🌟🌟 | 🌟🌟🌟🌟 | 🌟🌟🌟🌟🌟        | 🌟🌟🌟🌟🌟       | 🌟🌟🌟🌟🌟 | 🌟🌟🌟🌟 |
 
-Comments:
+
 - React Native: Highly popular and well-supported framework with good stability. Offers a vast collection of libraries and follows good security practices. Native capability: Provides access to native APIs through JavaScript bridges.
 - Flutter: Rapidly growing framework with strong support from Google and a rich collection of built-in widgets. Requires a learning curve for beginners. Native capability: Employs a reactive framework that enables direct access to platform-specific APIs.
 - Xamarin: Microsoft-backed framework with strong support and a wide range of libraries available. Well-suited for enterprise apps. Native capability: Allows direct access to native APIs using C# and .NET.
